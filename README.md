@@ -1,2 +1,2 @@
-# glowing-umbrella
+# Project Description
 Active Directory Security Lab – A hands-on project to understand IT administration, threat detection, and adversary simulation. This lab involved setting up an Azure AD environment, deploying Sysmon and Splunk for event monitoring, and using Kali Linux to simulate attacks like brute force with Hydra. The goal was to analyze security telemetry, detect threats, and improve defensive strategies using Atomic Red Team and Splunk logs.
